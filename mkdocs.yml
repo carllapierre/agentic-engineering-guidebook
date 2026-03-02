@@ -1,0 +1,17 @@
+site_name: Agentic Engineering Guidebook
+site_description: A practical guidebook for agentic engineering.
+site_url: https://example.com
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: blue grey
+    accent: light blue
+
+extra_css:
+  - styles/dark.css
+
+nav:
+  - Home: index.md
+  - "Preface: From Coding Agents to Engineering Agents": preface.md
