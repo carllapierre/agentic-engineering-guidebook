@@ -2,6 +2,8 @@
 
 Agentic engineering is the practice of integrating agents as primary producers of work artifacts in software development, with humans steering intent, architecture, and judgment.
 
+Read the guidebook online: [carllapierre.github.io/agentic-engineering-guidebook](https://carllapierre.github.io/agentic-engineering-guidebook/)
+
 In this model:
 
 - Humans set direction, define quality, and make high-stakes decisions.
