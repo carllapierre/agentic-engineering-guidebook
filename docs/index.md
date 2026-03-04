@@ -19,3 +19,4 @@ The shift is not "AI helps me code faster." It is about designing workflows so h
 ## Contents
 
 - [Preface: From Coding Agents to Engineering Agents](preface.md)
+- [Intro to Agentic Engineering](intro-to-agentic-engineering.md)

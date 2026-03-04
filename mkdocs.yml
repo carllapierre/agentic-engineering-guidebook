@@ -15,3 +15,4 @@ extra_css:
 nav:
   - Home: index.md
   - "Preface: From Coding Agents to Engineering Agents": preface.md
+  - "Intro to Agentic Engineering": intro-to-agentic-engineering.md
